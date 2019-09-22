@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_407192_needco.needco_user" name="x_407192_needco.needco_user">f9b38f192f040010c6c33c96f699b602</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-21 22:25:57</sys_created_on>
+        <sys_id>39b303992f040010c6c33c96f699b649</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f9b38f192f040010c6c33c96f699b602</sys_name>
+        <sys_package display_value="NeedCo" source="x_407192_needco">d9338b952f040010c6c33c96f699b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedCo">d9338b952f040010c6c33c96f699b603</sys_scope>
+        <sys_update_name>sys_embedded_help_role_39b303992f040010c6c33c96f699b649</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-21 22:25:57</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

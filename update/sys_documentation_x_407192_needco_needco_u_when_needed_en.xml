@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_when_needed" label="When needed" language="en" table="x_407192_needco_needco">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_when_needed</element>
+            <help/>
+            <hint/>
+            <label>When needed</label>
+            <language>en</language>
+            <name>x_407192_needco_needco</name>
+            <plural>When needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-21 23:18:03</sys_created_on>
+            <sys_id>74afcb552f440010c6c33c96f699b6d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>When needed</sys_name>
+            <sys_package display_value="NeedCo" source="x_407192_needco">d9338b952f040010c6c33c96f699b603</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedCo">d9338b952f040010c6c33c96f699b603</sys_scope>
+            <sys_update_name>sys_documentation_x_407192_needco_needco_u_when_needed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-21 23:18:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

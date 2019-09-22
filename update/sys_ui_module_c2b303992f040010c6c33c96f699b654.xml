@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NeedCosawa">8ab303992f040010c6c33c96f699b652</application>
+        <filter/>
+        <name>NeedCos</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_407192_needco.needco_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-21 22:25:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c2b303992f040010c6c33c96f699b654</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedCos</sys_name>
+        <sys_package display_value="NeedCo" source="x_407192_needco">d9338b952f040010c6c33c96f699b603</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedCo">d9338b952f040010c6c33c96f699b603</sys_scope>
+        <sys_update_name>sys_ui_module_c2b303992f040010c6c33c96f699b654</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-21 22:25:58</sys_updated_on>
+        <table>x_407192_needco_needco</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
